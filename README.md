@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://github.com/tauanelima05/projetoQrCode-FrontendMentor/assets/101372296/4ece78d9-2f91-41ec-9fc5-4ec2ce03a92c"></p>
 
-<h4 align="center"><a href="https://https://projeto-fokus-alura-jinm.vercel.app/" align="center">Clique aqui para visitar o projeto<a/></h4>
+<h4 align="center"><a https://projeto-qr-code-frontend-mentor-24sgqmhq9-site-samsung.vercel.app/" align="center">Clique aqui para visitar o projeto<a/></h4>
 
 <p align="center"><img src="https://github.com/tauanelima05/projetoQrCode-FrontendMentor/assets/101372296/9aed9194-5280-42df-bb61-158eec3b16c8"></p>
 
