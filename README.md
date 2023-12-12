@@ -7,7 +7,7 @@
 
 <h4 align="center"><a href="https://https://projeto-fokus-alura-jinm.vercel.app/" align="center">Clique aqui para visitar o projeto<a/></h4>
 
-<p align="center"><img src="https://github.com/tauanelima05/projetoQrCode-FrontendMentor/assets/101372296/27095010-bbfa-476f-9929-50d991d2561f"></p>
+<p align="center"><img src="https://github.com/tauanelima05/projetoQrCode-FrontendMentor/assets/101372296/9aed9194-5280-42df-bb61-158eec3b16c8"></p>
 
 ##
 
